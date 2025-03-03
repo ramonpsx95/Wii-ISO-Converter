@@ -1,0 +1,2 @@
+mkisofs come form Cdrtools, Cdrtools is a set of 100% free true OpenSource programs.
+http://cdrecord.berlios.de
